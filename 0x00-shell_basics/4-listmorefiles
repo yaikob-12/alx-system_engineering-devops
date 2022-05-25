@@ -1,2 +1,2 @@
-#!bin/basg
+#!/bin/basg
 ls -la
